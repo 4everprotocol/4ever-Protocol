@@ -1,4 +1,4 @@
-# 4ever-Protocol
+# 4ever Protocol
 
 The 4ever Protocol defines a software system for persistent continuity in AI systems.
 
